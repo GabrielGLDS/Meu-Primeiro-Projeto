@@ -5,6 +5,13 @@
     box-sizing: border-box;
 }
 
+body {
+
+    background: url("img/copia\ fot\ academia.jpg") no-repeat  ;
+    background-size: cover;
+}
+
+
 form{
     display: flex;
     justify-content: center;
@@ -20,7 +27,7 @@ form{
     align-items: center;
     display: flex;
     flex-direction: column;
-    box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.20);
+    box-shadow: 3px 3px 10px 3px rgba(0, 0, 0, 0.35);
     border-radius: 8px;
     
 }
